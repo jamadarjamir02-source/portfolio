@@ -7,7 +7,7 @@ A personal portfolio website showcasing my academic achievements, projects, cert
 ## 📸 Preview
 
 > _Add a screenshot of your portfolio here after hosting it._
-> `![Portfolio Preview](jamir.jpeg)
+> `![Portfolio Preview](screenshot.png)`
 
 ---
 
@@ -62,7 +62,8 @@ No frameworks. No libraries. Pure vanilla web technologies.
 | Course | Issuer | Date |
 |---|---|---|
 | Basics of Python | Infosys Springboard | September 29, 2025 |
-| _(Add more here)_ | | |
+| Introduction to Modern AI | Cisco Networking Academy | February 17, 2026 |
+| Yuva AI for All | NASSCOM FutureSkills / INDIAai | February 17, 2026 |
 
 ---
 
